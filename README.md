@@ -1,4 +1,4 @@
-# Systematic literature review t- identify the economic and quality of life evidence for the treatment of moderate-to-severe vasomotor symptoms (VMS) associated with menopause
+# Systematic literature review to identify the economic and quality of life evidence for the treatment of moderate-to-severe vasomotor symptoms (VMS) associated with menopause (protocol)
 
 ## Citation
 
