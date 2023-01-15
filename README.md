@@ -110,7 +110,7 @@ Data extractions
 - For the QoL and PRO outcomes, studies will be critically appraised for reporting quality using the checklist depending upon the associate study designs:
   - For RCTs, standard NICE checklist will be used to determine the overall quality o For non-RCTs and observational studies, Downs’ and Black checklist will be used
 ## Strategy for data synthesis
-- The results of studies will be synthesized qualitatively and reported separately for economic evaluations, cost/resource use, utilities, and PROs and HRQoL.
+- The results of studies will be synthesized qualitatively and reported separately for economic evaluations, cost/resource use, utilities, and PROs and HRQoL
 - A systematic narrative synthesis will be provided with information presented in the text and tables to summarize and explain the characteristics and findings of the included studies
 - The narrative synthesis will explore the relationship and findings both within and between the included studies, in line with the guidance from the York CRD and ESRC Methods program for narrative synthesis for writing systematic review
 - The guidance from the standard PRISMA checklist 2020 will be used for data reporting
